@@ -1,0 +1,8 @@
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\bin\Debug\Lab_6_TicTacToe.exe.config
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\bin\Debug\Lab_6_TicTacToe.exe
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\bin\Debug\Lab_6_TicTacToe.pdb
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\obj\Debug\Lab_6_TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\obj\Debug\Lab_6_TicTacToe.Properties.Resources.resources
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\obj\Debug\Lab_6_TicTacToe.csproj.GenerateResource.Cache
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\obj\Debug\Lab_6_TicTacToe.exe
+C:\Users\shahi_000\Desktop\School\College Work\Quality Assurance and Testing\Labs\Lab_6_TicTacToe\Lab_6_TicTacToe\obj\Debug\Lab_6_TicTacToe.pdb
